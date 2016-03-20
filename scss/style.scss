@@ -26,4 +26,25 @@ $borderradius: 20px;
 //end spacing variables
 
 
+//END VARIABLES
 
+
+/////////////////////////////////////////////////////////////////////////////////////////
+
+
+//BEGIN HEADER STYLES
+
+.intro-header {
+    .container {
+        .row {
+            .site-heading {
+                font-family: $heading;
+            } //end .site-heading
+        } //end .row
+    } //end .container
+} //end .intro-header
+
+//END HEADER STYLES
+
+
+/////////////////////////////////////////////////////////////////////////////////////////
