@@ -340,8 +340,8 @@ form .row:first-child .floating-label-form-group {
 }
 .btn-default:hover,
 .btn-default:focus {
-  background-color: #0085a1;
-  border: 1px solid #0085a1;
+  background-color: #FF6600;
+  border: 1px solid #FF6600;
   color: white;
 }
 .pager {
@@ -361,7 +361,7 @@ form .row:first-child .floating-label-form-group {
 .pager li > a:hover,
 .pager li > a:focus {
   color: white;
-  background-color: #0085a1;
+  background-color: #FF6600;
   border: 1px solid #0085a1;
 }
 .pager .disabled > a,

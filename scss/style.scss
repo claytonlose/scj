@@ -10,11 +10,11 @@ $white: #FFFFFA;
 
 
 //begin TypeKit variables
-$heading: Almaq;
-$script: Kinescope;
-$serif: Adobe;
-$sans1: Freight;
-$sans2: Open;
+$heading: "almaq-rough", sans-serif;
+$script: font-family: Kinescope;
+$serif: font-family: Adobe;
+$sans1: font-family: Freight;
+$sans2: font-family: Open;
 //end TypeKit variables
 
 
@@ -34,15 +34,9 @@ $borderradius: 20px;
 
 //BEGIN HEADER STYLES
 
-.intro-header {
-    .container {
-        .row {
-            .site-heading {
-                font-family: $heading;
-            } //end .site-heading
-        } //end .row
-    } //end .container
-} //end .intro-header
+.headerh1 {
+    
+}
 
 //END HEADER STYLES
 
